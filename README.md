@@ -1,10 +1,10 @@
-# Lab8Web
+# Lab9Web
 
     Nama : Satria Dimas Permana
     Nim : 312010450
     Kelas : TI.20.B.2
 
-# Praktikum 8: PHP dan Database MySQL
+# Praktikum 9
 
 # Langkah-langkah Praktikum
 
