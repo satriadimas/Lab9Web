@@ -6,6 +6,10 @@
 
 # Praktikum 9
 
+![image](https://user-images.githubusercontent.com/20396585/172052309-0215bc2d-594a-493f-b7d4-e79f7c746b3e.png)
+![image](https://user-images.githubusercontent.com/20396585/172052324-daa6596f-c7a5-49e4-9bee-0d90ba57a629.png)
+
+
 # Langkah-langkah Praktikum
 
 _Persiapan_
